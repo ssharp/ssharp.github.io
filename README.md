@@ -6,7 +6,7 @@
 
 ## About me
 
-Hello, I am Seth SHarp. I'm a developer interested in web apps, open source projects, and learning new technologies.
+Hello, I am Seth Sharp. I'm a developer interested in web apps, open source projects, and learning new technologies.
 
 <details>
 <summary>Technology & Tools</summary>
