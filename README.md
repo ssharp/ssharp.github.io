@@ -8,8 +8,7 @@
 
 Hello, I am Seth Sharp. I'm a developer interested in web apps, open source projects, and learning new technologies.
 
-<details>
-<summary>Technology & Tools</summary>
+## Technology & Tools
   
 | Tools | Technology |
 |-----:|-----------|
@@ -17,17 +16,13 @@ Hello, I am Seth Sharp. I'm a developer interested in web apps, open source proj
 | Stack Components | Node.js, Angular, Express, MongoDB, Postman |
 | Version Control  | Git, Github |
 
-</details>
 
-<details>
-<summary>Featured Projects</summary>
+## Featured Projects
 
 | Name | Link |
 |-----:|---------------|
 | MEAN Full-Stack App | https://github.com/ssharp/cs465-fullstack |
 | AI Maze Navigation  | https://github.com/ssharp/CS370-CurrentEmergingTrendsInComputerScience-SHARP |
-
-</details>
 
 ---
 > I am the wisest man alive, for I know one thing, and that is that I know nothing. - Plato
