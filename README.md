@@ -16,13 +16,16 @@ Hello, I am Seth Sharp. I'm a developer interested in web apps, open source proj
 | Stack Components | Node.js, Angular, Express, MongoDB, Postman |
 | Version Control  | Git, Github |
 
+<details>
+<summary>Featured Projects</summary>
 
-## Featured Projects
+This is one of the projects I helped to build through my coursework at SNHU.
 
 | Name | Link |
 |-----:|---------------|
-| MEAN Full-Stack App | https://github.com/ssharp/cs465-fullstack |
-| AI Maze Navigation  | https://github.com/ssharp/CS370-CurrentEmergingTrendsInComputerScience-SHARP |
+| MEAN Full-Stack App | [MEAN Full-Stack Web App](https://github.com/ssharp/cs465-fullstack) |
+
+</details>
 
 ---
 > I am the wisest man alive, for I know one thing, and that is that I know nothing. - Plato
