@@ -20,7 +20,8 @@ Hello, I am Seth Sharp. I'm a developer interested in web apps, open source proj
 <summary>Featured Projects</summary>
 
 This is one of the projects I helped to build through my coursework at SNHU.
-[MEAN Full-Stack Web App](https://github.com/ssharp/cs465-fullstack) |
+
+[MEAN Full-Stack Web App](https://github.com/ssharp/cs465-fullstack)
 
 </details>
 
