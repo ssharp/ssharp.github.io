@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1a85ec37-18a5-4583-94b5-3e4bcb338b07">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a257e650-9b8e-4def-8c3c-40519c38f275">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/user-attachments/assets/a257e650-9b8e-4def-8c3c-40519c38f275">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a880fcf1-8084-4f8c-a7c1-98e0556729f4">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/588420e4-7d43-4536-b1f2-fc8064cbf131">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/user-attachments/assets/588420e4-7d43-4536-b1f2-fc8064cbf131">
 </picture>
 
 ## About me
